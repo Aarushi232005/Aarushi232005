@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aarushi232005
 - 👀 I’m interested in research and coding
-- 🌱 I’m currently learning machine learning 
+- 🌱 I’m currently learning data analytics 
 - 💞️ I’m looking to collaborate on some exciting projects
 - 📫 How to reach me: My insta and linkedin handles are in my profile
 - 😄 Pronouns: she/her
